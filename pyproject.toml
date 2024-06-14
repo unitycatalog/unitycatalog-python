@@ -1,6 +1,6 @@
 [project]
 name = "unitycatalog"
-version = "0.0.1-alpha.0"
+version = "0.1.1"
 description = "The official Python library for the unitycatalog API"
 dynamic = ["readme"]
 license = "Apache-2.0"
