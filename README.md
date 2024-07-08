@@ -10,7 +10,7 @@ It is generated with [Stainless](https://www.stainlessapi.com/).
 
 ## Documentation
 
-The REST API documentation can be found [on docs.unitycatalog.com](https://docs.unitycatalog.com). The full API of this library can be found in [api.md](api.md).
+The REST API documentation can be found [on docs.unitycatalog.com](https://docs.unitycatalog.com). The full API of this library can be found in [api.md](https://github.com/samster25/unitycatalog-python/blob/main/api.md).
 
 ## Installation
 
@@ -21,7 +21,7 @@ pip install --pre unitycatalog
 
 ## Usage
 
-The full API of this library can be found in [api.md](api.md).
+The full API of this library can be found in [api.md](https://github.com/samster25/unitycatalog-python/blob/main/api.md).
 
 ```python
 from unitycatalog import Unitycatalog
