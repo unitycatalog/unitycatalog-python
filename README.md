@@ -16,7 +16,7 @@ The REST API documentation can be found [on docs.unitycatalog.com](https://docs.
 
 ```sh
 # install from the production repo
-pip install git+ssh://git@github.com/undefined/unitycatalog-python.git
+pip install git+https://github.com/unitycatalog/unitycatalog-python.git
 ```
 
 > [!NOTE]
